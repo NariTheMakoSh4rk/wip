@@ -1,6 +1,5 @@
 <p align="center">
-<img width="1117" height="631" alt="image" src="https://github.com/user-attachments/assets/0bce02a7-5fc6-4d74-985a-8ac18cb96a5d" />
-  
+<img width="650" height="600" alt="image" src="https://github.com/NariTheMakoSh4rk/wip/blob/3b1ec2ff3ed8217d58543053f5ae51d9d7d05328/Chance's%20rabbit%20Spade.png" />
 <p align="center">
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢ <br>
 ﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉ <br>
