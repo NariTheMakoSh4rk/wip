@@ -8,8 +8,8 @@
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢ <br>
 ﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉ <br>
 <p align="center">
-  ${{\color{#616369}\normalsize{\textsf{my page…}}}}$ <br>
-${{\color{#616369}\normalsize{\textsf{wip wip wip okay…}}}}$
+  ${{\color{#616369}\normalsize{\textsf{Wip..Wip..}}}}$ <br>
+${{\color{#616369}\normalsize{\textsf{AHHHHHHHHHHHHHHHHHHHHHHHHHHH}}}}$
 
 
 
@@ -29,15 +29,35 @@ ${{\color{#616369}\normalsize{\textsf{Bunnibunnibuni..}}}}$
 </details>
 <div align="center">
 <details>
-<summary>${{\color{#616369}\normalsize{\textsf{text}}}}$</summary>
+<summary>${{\color{#616369}\normalsize{\textsf{My Coping-Links}}}}$</summary>
+ᢉ𐭩
 
-${{\color{#616369}\normalsize{\textsf{hi, wip text}}}}$
+${{\color{#b09b72}\normalsize{\textsf{Contractee}}}}$
+
+${{\color{#111112}\normalsize{\textsf{Spade}}}}$
+
+${{\color{#adaeb8}\normalsize{\textsf{Gubby}}}}$
+
+${{\color{#8c8c8c}\normalsize{\textsf{Chance}}}}$
+
+${{\color{#0f0f0f}\normalsize{\textsf{Lenny/The Obsessed}}}}$
+
+${{\color{#735e50}\normalsize{\textsf{Dazzle -TSAMS}}}}$
+
 
 </details><div align="center">
 <details>
-<summary>${{\color{#616369}\normalsize{\textsf{text}}}}$</summary>
+  <summary>${{\color{#616369}\normalsize{\textsf{My F/Os}}}}$</summary>
+ᢉ𐭩
 
-${{\color{#616369}\normalsize{\textsf{hi, wip text}}}}$
+  
+${{\color{#6e5644}\normalsize{\textsf{Don Sonnellino - HyperSharing}}}}$
+
+${{\color{#db4e44}\normalsize{\textsf{Pierrot - Hypersharing}}}}$
+
+${{\color{#0f0f0f}\normalsize{\textsf{The Knocker - Sharing}}}}$
+
+${{\color{#b09b72}\normalsize{\textsf{Contractee - Nonsharing}}}}$
 
 </details>
 
