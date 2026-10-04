@@ -1,5 +1,5 @@
 <p align="center">
-<img width="650" height="600" alt="image" src="https://github.com/NariTheMakoSh4rk/wip/blob/3b1ec2ff3ed8217d58543053f5ae51d9d7d05328/Chance's%20rabbit%20Spade.png" />
+<img width="550" height="500" alt="image" src="https://github.com/NariTheMakoSh4rk/wip/blob/82e776a81db26a74bf6dff797a6bb8c00c2704d7/Screenshot%202026-10-04%201.42.29%20AM%20(1).png" />
   
 <p align="center">
   <img src="https://hits.sh/github.com/NariTheMakoSh4rk.svg?style=plastic&label=Viewed&extraCount=967&color=e0986d&labelColor=7c665d&logo=roblox" alt="Description" width="100">
