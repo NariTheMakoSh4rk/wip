@@ -73,8 +73,38 @@ ${{\color{#b09b72}\normalsize{\textsf{Contractee - Nonsharing}}}}$
 <details>
 <summary>${{\color{#616369}\normalsize{\textsf{DNI list}}}}$</summary>
 
-${{\color{#616369}\normalsize{\textsf{hi, wip text}}}}$
+  .
 
+𝘿𝙤 𝙣𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙖𝙘𝙩 𝙞𝙛 𝙮𝙤𝙪:
+
+Under 13 or above 20
+
+Harass new people
+
+Do not respect boundries
+
+Intentionally start drama
+
+Art theft or make/trace AI art
+
+𝘿𝙤 𝙣𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙖𝙘𝙩 𝙞𝙛 𝙮𝙤𝙪 𝙖𝙧𝙚 𝙤𝙧 𝙨𝙪𝙥𝙥𝙤𝙧𝙩:
+
+Homophobic/Anti-LGBT
+
+Racist, Ableist, ect.
+
+Sexist/Misogynist
+
+DDLG, Ageplay, Petplay, ect.
+
+Harassers, bullies, doxxers, stalkers, threat-makers
+MAP
+
+Underage shipper/Incest shipper
+
+Anti-kin
+
+sysmeds
 
   </details>
 </div>
