@@ -8,8 +8,7 @@
 ⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢⌢ <br>
 ﹉﹉﹉﹉﹉﹉﹉﹉﹉﹉ <br>
 <p align="center">
-${{\color{#616369}\normalsize{\textsf{·̩͙།† ͝  ︶  ͝   ⏝   ͝  ︶  ͝ †། ·̩͙}}}}$ <br>
-${{\color{#616369}\normalsize{\textsf{my page…}}}}$ <br>
+  ${{\color{#616369}\normalsize{\textsf{my page…}}}}$ <br>
 ${{\color{#616369}\normalsize{\textsf{wip wip wip okay…}}}}$
 
 
@@ -62,3 +61,5 @@ ${{\color{#616369}\normalsize{\textsf{hi, wip text}}}}$
 <p align="center">             
 ﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍﹍ <br>
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣ </p>
+    ᘏ ⑅ ᘏ   ഒ    zᶻ <br>
+  ꒰˶  - ˕ -꒱ ⌒)ᦱ </p>
