@@ -74,8 +74,9 @@ ${{\color{#b09b72}\normalsize{\textsf{Contractee - Nonsharing}}}}$
 <summary>${{\color{#616369}\normalsize{\textsf{DNI list}}}}$</summary>
 
   .
-
 𝘿𝙤 𝙣𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙖𝙘𝙩 𝙞𝙛 𝙮𝙤𝙪:
+
+.
 
 Under 13 or above 20
 
@@ -88,6 +89,8 @@ Intentionally start drama
 Art theft or make/trace AI art
 
 𝘿𝙤 𝙣𝙤𝙩 𝙞𝙣𝙩𝙚𝙧𝙖𝙘𝙩 𝙞𝙛 𝙮𝙤𝙪 𝙖𝙧𝙚 𝙤𝙧 𝙨𝙪𝙥𝙥𝙤𝙧𝙩:
+
+.
 
 Homophobic/Anti-LGBT
 
