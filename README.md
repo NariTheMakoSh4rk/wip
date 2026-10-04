@@ -40,7 +40,7 @@ ${{\color{#adaeb8}\normalsize{\textsf{Gubby}}}}$
 
 ${{\color{#8c8c8c}\normalsize{\textsf{Chance}}}}$
 
-${{\color{#0f0f0f}\normalsize{\textsf{Lenny/The Obsessed}}}}$
+${{\color{#636363}\normalsize{\textsf{Lenny/The Obsessed}}}}$
 
 ${{\color{#735e50}\normalsize{\textsf{Dazzle -TSAMS}}}}$
 
@@ -55,7 +55,7 @@ ${{\color{#6e5644}\normalsize{\textsf{Don Sonnellino - HyperSharing}}}}$
 
 ${{\color{#db4e44}\normalsize{\textsf{Pierrot - Hypersharing}}}}$
 
-${{\color{#0f0f0f}\normalsize{\textsf{The Knocker - Sharing}}}}$
+${{\color{#636363}\normalsize{\textsf{The Knocker - Sharing}}}}$
 
 ${{\color{#b09b72}\normalsize{\textsf{Contractee - Nonsharing}}}}$
 
