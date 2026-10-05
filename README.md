@@ -116,3 +116,11 @@ sysmeds
 ⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣⌣ </p>
     ᘏ ⑅ ᘏ   ഒ    zᶻ <br>
   ꒰˶  - ˕ -꒱ ⌒)ᦱ </p>
+
+<div align="center">
+<details>
+<summary>${{\color{#616369}\normalsize{\textsf{DNI list}}}}$</summary>
+<img src="https://hits.sh/github.com/NariTheMakoSh4rk.svg?style=plastic&label=Viewed&extraCount=967&color=e0986d&labelColor=7c665d&logo=roblox" alt="Description" width="100">
+
+  </details>
+</div>
