@@ -1,11 +1,8 @@
 <div align="left">
-<details>
-<summary>${{\color{#f0c256}\normalsize{\textsf{Supa cool rewards}}}}$</summary>
 <img src="https://github.com/NariTheMakoSh4rk/NariTheMakoSh4rk/blob/f3c71096e1d628e01ba38fc83c3dba969f4ede8b/Screenshot%202026-10-05%204.08.19%20PM.png" alt="Description" width="600">
 
 [pt-of-forsaken](https://github.com/pt-of-forsaken)
 
-  </details>
 </div>
 
 <p align="center">
